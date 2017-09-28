@@ -117,3 +117,9 @@ img, video, audio {
 .first {
   margin-left: 0%;
 }
+
+/*///// LAYOUT //////*/
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+}
